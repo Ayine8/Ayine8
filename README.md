@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayine Kwaku Ayine
+- 👋 Hi, I’m John Kwaku Ayine
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Data Analytics 
 
